@@ -7,6 +7,6 @@
 
 
 
-======
+***
 
 ![alt text](https://stickershop.line-scdn.net/stickershop/v1/product/6287/LINEStorePC/main.png;compress=true)
