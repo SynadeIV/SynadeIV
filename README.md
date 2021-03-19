@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Corentin
 - 🌱 I’m currently learning Web Development 
-- 👀 I’m interested in new technologies, video games, manga... :D
+- 👀 I’m interested in new technologies, video games & manga ! 
 - 🔗 Check this out (currently in dev...) : <https://synadeiv.github.io>
 
 
