@@ -1,7 +1,7 @@
 ### 👋 Salut, moi c'est Corentin !
-- 🌱 Je suis actuellement développeur Web 
-- 👀 J'aime les vêtements, les chaussures, les LEGO et tout particulièrement les jeux vidéos.
-- 🔗 Mon portfolio en développement : <https://synadeiv.github.io>
+- 🌱 Je suis actuellement développeur web 
+- 👀 J'aime les vêtements, les chaussures, les LEGO et tout particulièrement les jeux vidéos
+- 🔗 Mon portfolio en développement: <https://synadeiv.github.io>
 
 
 
