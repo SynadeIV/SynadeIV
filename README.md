@@ -1,7 +1,7 @@
-### 👋 Hi, I’m Corentin
-- 🌱 I’m currently learning Web Development 
-- 👀 I’m interested in new technologies, video games & manga ! 
-- 🔗 Check this out (currently in dev...) : <https://synadeiv.github.io>
+### 👋 Salut, moi c'est Corentin !
+- 🌱 Je suis actuellement développeur Web 
+- 👀 J'aime les vêtements, les chaussures, les LEGO et tout particulièrement les jeux vidéos.
+- 🔗 Mon portfolio en développement : <https://synadeiv.github.io>
 
 
 
